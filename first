@@ -1,0 +1,6 @@
+#include <iostream>
+useing namespace std;
+int main
+{
+  cout<<"李承谕最帅！！"<<endl;
+}
